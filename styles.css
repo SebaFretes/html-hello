@@ -1,0 +1,30 @@
+body {
+    font-family: 'Krub', sans-serif;;
+}
+
+span {
+    font-weight: bolder;
+}
+
+
+.post-header {
+    column-count: 2;
+}
+
+.puntos {
+    text-align: right;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+.post-icons {
+    column-count: 2;
+}
+
+.icons2 {
+    text-align: right;
+}
+
