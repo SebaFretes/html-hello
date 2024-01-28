@@ -15,9 +15,15 @@ span {
     text-align: right;
 }
 
-img {
+.post-img {
+    max-width: 100%;
     height: auto;
-    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    
 }
 
 .post-icons {
