@@ -1,11 +1,10 @@
 body {
-    font-family: 'Krub', sans-serif;;
+    font-family: 'Krub', sans-serif;
 }
 
 span {
     font-weight: bolder;
 }
-
 
 .post-header {
     column-count: 2;
@@ -16,15 +15,16 @@ span {
 }
 
 .post-img {
-    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 100vh;
     height: auto;
 }
 
-img {
+/* img {
     max-width: 100%;
     height: auto;
-    
-}
+} */
 
 .post-icons {
     column-count: 2;
